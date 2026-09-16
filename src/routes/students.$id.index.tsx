@@ -19,7 +19,7 @@ import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { deleteStudent, gradeFor, studentQueryOptions } from "@/lib/students";
 
-export const Route = createFileRoute("/students/$id")({
+export const Route = createFileRoute("/students/$id/")({
   head: () => ({
     meta: [
       { title: "Student Details | Student Management System" },
