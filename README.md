@@ -1,3 +1,4 @@
+OUTPUT:https://snap-shot-magic-35.lovable.app/students
 # Student Management System
 
 A complete CRUD-based web application for managing student records, built as a B.Tech
